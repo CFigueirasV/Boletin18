@@ -6,6 +6,10 @@ import boletin_18_1.Boletin_18.Persoal;
  *
  * @author cfigueirasvalverde
  */
+/**
+ * 
+ * inicio
+ */
     public class Academica {
     private static int numReferenciaP = 2017;
     private int numReferencia;

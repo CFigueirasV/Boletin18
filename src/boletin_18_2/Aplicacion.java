@@ -15,7 +15,7 @@ public class Aplicacion {
     public static void main(String[] args) {
         // TODO code application logic here
         Persoal gustavo = new Persoal("615728435", "gustagus@vamoadarle.org");
-        Persoal roberto = new Persoal("659843147", "bertoroberto@gmail.com");
+        Persoal roberto = new Persoal("659843847", "bertoroberto@gmail.com");
         Academica gustavo = new Academica("Gustavo", 19, gustavo);
         Academica roberto = new Academica("Roberto", 16, roberto);
         gustavo.setNota(8);

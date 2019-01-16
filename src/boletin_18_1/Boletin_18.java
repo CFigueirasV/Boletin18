@@ -9,6 +9,9 @@ public class Boletin_18 {
     /**
      * @param args the command line arguments
      */
+    /**
+     * inicio
+     */
     public class Persoal {
     private String telefono;
     private String correo;
